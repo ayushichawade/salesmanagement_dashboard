@@ -5,8 +5,8 @@ We all have an innate desire to visualize ourselves as fictional characters, whe
 
 Initially, we set out to generate LEGO-style versions of images, but after facing multiple challenges and technical limitations in producing structured and realistic outputs, we had to reconsider our approach. ⚠️
 
-Determined to find a better solution, we pivoted to cartoon-style transformations. 🎭 This shift allowed us to refine our model, improve learning mechanisms, and achieve more meaningful results while still upholding the essence of artistic reimagination. 🎯📈
+Determined to find a better solution, we pivoted to cartoon-style transformations. This shift allowed us to refine our model, improve learning mechanisms, and achieve more meaningful results while still upholding the essence of artistic reimagination. 
 
 ---
 
-*(More sections to be added later, such as Implementation, Technologies Used, Dataset, etc.)* 📌
+
