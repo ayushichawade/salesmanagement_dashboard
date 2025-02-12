@@ -9,4 +9,11 @@ Determined to find a better solution, we pivoted to cartoon-style transformation
 
 ---
 
+## 📌 Understanding GANs and CycleGAN
+Generative Adversarial Networks (GANs) are a class of deep learning models that consist of two neural networks—a generator and a discriminator—competing against each other. The generator attempts to create realistic images, while the discriminator evaluates them against real samples, leading to continuous improvements in quality. 
 
+CycleGAN, a specialized type of GAN, is particularly useful for image-to-image translation tasks where paired training data is not available. It employs cycle consistency to ensure transformations can be reversed, making it ideal for style transfer applications such as converting real-world images into cartoons. 
+
+In our project, we leverage CycleGAN to seamlessly translate input images into their artistic representations while maintaining essential features. This approach enables us to generate high-quality, visually appealing transformations that stay true to the original content. 
+
+---
